@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanuraj-k" alt="sanuraj-k" /></a> </p>
 
-- 🔭 I’m currently working on **BlogsUp**
+- 🔭 I’m currently working on **Blogsup project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Typescript and Nextjs**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
