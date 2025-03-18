@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Digievo Labs**
 
-- 🌱 I’m currently learning **Typescript and Nextjs**
+- 🌱 I’m currently learning **Nextjs and Typescript**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
