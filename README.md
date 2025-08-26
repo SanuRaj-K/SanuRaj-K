@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sanurajk55@gmail.com**
 
-- 📄 Know about my experiences [https://mern.tiiny.site/](https://mern.tiiny.site/)
+- 📄 Know about my experiences [https://mern.tiiny.site/](https://mern.tiiny.site/) 
 
 - ⚡ Fun fact **Empty😊**
 
