@@ -8,7 +8,7 @@
       
 - 🔭 I’m currently working on **Digievo Labs.**       
         
-- 🌱 I’m currently learning **Python**    
+- 🌱 I’m currently learning **Python**     
    
 - 👯 I’m looking to collaborate on **Frontend Projects.**  
    
