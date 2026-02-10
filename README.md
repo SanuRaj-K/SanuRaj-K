@@ -10,7 +10,7 @@
         
 - 🌱 I’m currently learning **Python**     
     
-- 👯 I’m looking to collaborate on **Frontend Projects.**  
+- 👯 I’m looking to collaborate on **Frontend Projects.**   
     
 - 👨‍💻 All of my projects are available at [https://sanuraj-k.github.io/portfolio.github.io/](https://sanuraj-k.github.io/portfolio.github.io/)
  
