@@ -16,7 +16,7 @@
  
 - 💬 Ask me about **React** 
 
-- 📫 How to reach me **sanurajk55@gmail.com**
+- 📫 How to reach me **sanurajk55@gmail.com** 
 
 - 📄 Know about my experiences [https://mern.tiiny.site/](https://mern.tiiny.site/)  
  
